@@ -1,1 +1,3 @@
 # Simple_Linear_Regression_on_Tips
+
+This repository contains a project that explores the basics of regression analysis by modeling the relationship between a dependent variable and one independent variable. The project uses a dataset containing information about tips from customers in a restaurant. The goal is to predict the total bill based on the tip amount. The project includes steps for data cleaning, exploratory data analysis, data visualization, model building using scikit-learn, and model evaluation. It also explores advanced concepts such as outlier handling, feature scaling, and residual analysis. This project is a great resource for anyone who wants to understand the implementation of simple linear regression and its applications in real data sets.
